@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186859657098",
+    "project_id": "tusdata-message",
+    "storage_bucket": "tusdata-message.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186859657098:android:1865d0ea5d5b681c14da73",
+        "android_client_info": {
+          "package_name": "com.example.tusdata_message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186859657098-eh78csk4vhasioo39mhhn0s4lj4ka1au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQRZRVj3HIbk9TKppBwy4AHqKp7m22gSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186859657098-eh78csk4vhasioo39mhhn0s4lj4ka1au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
